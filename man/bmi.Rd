@@ -25,9 +25,9 @@ Körpergröße in m
 \value{
 %%  ~Describe the value returned
 %%  If it is a LIST, use
-%%  \item{comp1 }{Description of 'comp1'}
-%%  \item{comp2 }{Description of 'comp2'}
-%% ...
+\item{a }{BMI Wert}
+\item{b }{Groeße}
+\item{c }{Gewicht}
 }
 \references{
 %% ~put references to the literature/web site here ~
