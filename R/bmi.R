@@ -1,5 +1,5 @@
 bmi <-
 function(gewicht, groesse){
-  out <- gewicht/groesse^2
+  out <- list(a=gewicht/groesse^2, b=groesse, c=gewicht)
   return(out)
 }
